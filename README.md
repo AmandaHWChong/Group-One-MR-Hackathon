@@ -12,4 +12,8 @@ Two-sample Mendelian randomization was implemented with the inverse-variance wei
 
 Plots were then generated to visualise the results. 
 
+### Limitations of analyses
+The MR analyses was underpowered due to the low numbers of cases in the outcome data (i.e. 2,633 cases). For further analyses, the outcome GWAS on type 2 diabetes mellitus in African ancestry will be required to increase the statistical power of the analyses to be able to detect a causal effect. 
+
+
 
