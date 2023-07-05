@@ -1,6 +1,6 @@
 # Group-One-MR-Hackathon
 
-## Project title: Investigating the causal relationship between HMGCR, as a drug target for LDL-lowering medication, and type 2 diabetes mellitus in African ancestry 
+## Investigating the causal relationship between HMGCR, as a drug target for LDL-lowering medication, and type 2 diabetes mellitus in African ancestry 
 
 ## Method
 ### Data source 
